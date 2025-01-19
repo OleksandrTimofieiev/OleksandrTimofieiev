@@ -7,6 +7,13 @@
 Latest projects
 
 ## Languages and tools
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo-mysql&logoColor=47C5FB)
+![Java](https://img.shields.io/badge/-Java-090909)
+![Python](https://img.shields.io/badge/-Python-090909)
+![SQL](https://img.shields.io/badge/-SQL-090909)
+![Kibana](https://img.shields.io/badge/-Kibana-090909)
+![Grafana](https://img.shields.io/badge/-Grafana-090909)
+![Jenkins](https://img.shields.io/badge/-Jenkins-090909)
+![Postman](https://img.shields.io/badge/-Jenkins-090909)
+
 
 Follow me
