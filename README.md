@@ -6,7 +6,7 @@
 
 Latest projects
 
-Languages and tools
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo-Postgress&logoColor=47C5FB)
+## Languages and tools
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo-mysql&logoColor=47C5FB)
 
 Follow me
