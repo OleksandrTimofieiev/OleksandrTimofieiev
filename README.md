@@ -7,7 +7,7 @@
 Latest projects
 
 ## Languages and tools
-![Java](https://img.shields.io/badge/-Java-090909)
+![Java](https://img.shields.io/badge/-Java-090909?logoSize=amd)
 ![Python](https://img.shields.io/badge/-Python-090909)
 ![SQL](https://img.shields.io/badge/-SQL-090909)
 ![Kibana](https://img.shields.io/badge/-Kibana-090909)
