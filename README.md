@@ -8,12 +8,12 @@ Latest projects
 
 ## Languages and tools
 ![Java](https://badgen.net/static/Language:/Java/:Black?icon=java)
-![Python](https://badgen.net/static/Language:/Python/:Black?icon=python)
-![SQL](https://img.shields.io/badge/-SQL-090909)
-![Kibana](https://img.shields.io/badge/-Kibana-090909)
-![Grafana](https://img.shields.io/badge/-Grafana-090909)
-![Jenkins](https://img.shields.io/badge/-Jenkins-090909)
-![Postman](https://img.shields.io/badge/-Jenkins-090909)
+![Python](https://badgen.net/static/Language:/Python/:Black)
+![SQL](https://badgen.net/static/Language:/SQL/:Black)
+![Kibana](https://badgen.net/static/Tool:/Kibana/:Black)
+![Grafana](https://badgen.net/static/Tool:/Grafana/:Black)
+![Jenkins](https://badgen.net/static/Tool:/Jenkins/:Black)
+![Postman](https://badgen.net/static/Tool:/Postman/:Black)
 
 
 Follow me
