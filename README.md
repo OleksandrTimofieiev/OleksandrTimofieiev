@@ -7,7 +7,7 @@
 Latest projects
 
 ## Languages and tools
-![Java2](https://img.shields.io/badge/-Java2/crates/size/rustc-serialize/0.3.24)
+![Java2](https://img.shields.io/badge/-Java2-090909/crates/size/rustc-serialize/0.3.24)
 ![Java](https://img.shields.io/badge/-Java-090909?logoSize=auto)
 ![Python](https://img.shields.io/badge/-Python-090909)
 ![SQL](https://img.shields.io/badge/-SQL-090909)
