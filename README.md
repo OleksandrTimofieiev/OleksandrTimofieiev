@@ -7,9 +7,8 @@
 Latest projects
 
 ## Languages and tools
-![Java2](https://badgen.net/static/Language:/Java/:Black?icon=java)
-![Java](https://img.shields.io/badge/-Java-090909?logo=java&logoWidth=120)
-![Python](https://img.shields.io/badge/-Python-090909)
+![Java](https://badgen.net/static/Language:/Java/:Black?icon=java)
+![Python](https://badgen.net/static/Language:/Python/:Black?icon=python)
 ![SQL](https://img.shields.io/badge/-SQL-090909)
 ![Kibana](https://img.shields.io/badge/-Kibana-090909)
 ![Grafana](https://img.shields.io/badge/-Grafana-090909)
