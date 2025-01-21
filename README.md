@@ -14,4 +14,4 @@
 ## Latest projects
 
 ## Follow me
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Youtube&logoColor=FF0000)(https://t.me/al9xxx)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=FF0000)] (https://t.me/al9xxx)
