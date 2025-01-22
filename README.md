@@ -4,6 +4,7 @@
 
 ## Languages and tools
 ![Java](https://badgen.net/static/Language:/Java/:Black)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=FF0000)
 ![Python](https://badgen.net/static/Language:/Python/:Black)
 ![SQL](https://badgen.net/static/Language:/SQL/:Black)
 ![Kibana](https://badgen.net/static/Tool:/Kibana/:Black)
