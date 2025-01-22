@@ -13,7 +13,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=FF0000)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=FF0000)
-![PostgesSQL](https://img.shields.io/badge/-PostgesSQL-090909?style=for-the-badge&logo=PostgesSQL&logoColor=FF0000)
+![PostgesSQL](https://img.shields.io/badge/-PostgesSQL-090909?style=for-the-badge&logo=postgresql&logoColor=FF0000)
 ![Kibana](https://img.shields.io/badge/-Kibana-090909?style=for-the-badge&logo=Kibana&logoColor=FF0000)
 ![Grafana](https://img.shields.io/badge/-Grafana-090909?style=for-the-badge&logo=Grafana&logoColor=FF0000)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-090909?style=for-the-badge&logo=Jenkins&logoColor=FF0000)
