@@ -10,6 +10,7 @@
 ![Grafana](https://badgen.net/static/Tool:/Grafana/:Black)
 ![Jenkins](https://badgen.net/static/Tool:/Jenkins/:Black)
 ![Postman](https://badgen.net/static/Tool:/Postman/:Black)
+![Postman](https://badgen.net/static/Tool:/Postman/:Black)
 
 ![Java](https://img.shields.io/badge/java-red.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj48cGF0aCBkPSJNNzUgMjBjLTYuNi0uNC0xMi4zIDMuNi0xMi4zIDkuMiAwIDQuMiAzLjMgNy4zIDcuNSA3LjMgMy4xIDAgNy4xLTMuMiA3LjUtNy40IDAtNS42LTUuMy05LjYtMTIuNCA5LjYiIGZpbGw9IiNGMjQyMjIiLz48L3N2Zz4=)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=FF0000)
