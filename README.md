@@ -15,4 +15,4 @@
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=FF0000)](https://t.me/al9xxx)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=FF0000)](https://www.linkedin.com/in/oleksandr-timofieiev/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=FF0000)](https://www.linkedin.com/in/oleksandr-timofieiev/)
