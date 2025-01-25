@@ -13,6 +13,7 @@
 ![Postman](https://badgen.net/static/Tool:/Postman/:Black)
 
 ![Java](https://img.shields.io/badge/java-red.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj48cGF0aCBkPSJNNzUgMjBjLTYuNi0uNC0xMi4zIDMuNi0xMi4zIDkuMiAwIDQuMiAzLjMgNy4zIDcuNSA3LjMgMy4xIDAgNy4xLTMuMiA3LjUtNy40IDAtNS42LTUuMy05LjYtMTIuNCA5LjYiIGZpbGw9IiNGMjQyMjIiLz48L3N2Zz4=)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj48cGF0aCBkPSJNNzUgMjBjLTYuNi0uNC0xMi4zIDMuNi0xMi4zIDkuMiAwIDQuMiAzLjMgNy4zIDcuNSA3LjMgMy4xIDAgNy4xLTMuMiA3LjUtNy40IDAtNS42LTUuMy05LjYtMTIuNCA5LjYiIGZpbGw9IiNGMjQyMjIiLz48L3N2Zz4=)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=FF0000)
 ![PostgesSQL](https://img.shields.io/badge/-PostgesSQL-090909?style=for-the-badge&logo=postgresql&logoColor=FF0000)
 ![Kibana](https://img.shields.io/badge/-Kibana-090909?style=for-the-badge&logo=Kibana&logoColor=FF0000)
