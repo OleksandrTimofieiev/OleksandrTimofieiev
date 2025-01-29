@@ -12,7 +12,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FF0000)
 
 ## Latest project
-[![Project](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github&logoColor=FF0000)](https://github.com/OleksandrTimofieiev/SeleniumFrameworkDesign)
+[![Project](https://img.shields.io/badge/-Project-090909?style=for-the-badge&logo=selenium&logoColor=FF0000)](https://github.com/OleksandrTimofieiev/SeleniumFrameworkDesign)
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=FF0000)](https://t.me/al9xxx)
