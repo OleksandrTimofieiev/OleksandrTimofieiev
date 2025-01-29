@@ -11,6 +11,9 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-090909?style=for-the-badge&logo=Jenkins&logoColor=FF0000)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FF0000)
 
+## Latest project
+[![Project](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github&logoColor=FF0000)](https://github.com/OleksandrTimofieiev/SeleniumFrameworkDesign)
+
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=FF0000)](https://t.me/al9xxx)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=inspire&logoColor=FF0000)](https://www.linkedin.com/in/oleksandr-timofieiev/)
