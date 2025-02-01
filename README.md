@@ -1,6 +1,6 @@
 [![Header](https://github.com/OleksandrTimofieiev/OleksandrTimofieiev/blob/main/assets/qa.png)](https://www.linkedin.com/in/oleksandr-timofieiev/)
 
-## Hi there! I am a skilled QA Engineer with hands-on experience with frameworks such as Rest Assured, Selenium, TestNG, and Cucumber. My expertise includes API and UI testing, bug tracking, and collaborating with cross-functional teams to deliver high-quality software solutions.
+## Hi there! I am a QA automation Engineer with hands-on experience with frameworks such as Rest Assured, Selenium, TestNG, and Cucumber. My expertise includes API and UI testing, bug tracking, and collaborating with cross-functional teams to deliver high-quality software solutions.
 
 ## Languages and tools
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj48cGF0aCBkPSJNNzUgMjBjLTYuNi0uNC0xMi4zIDMuNi0xMi4zIDkuMiAwIDQuMiAzLjMgNy4zIDcuNSA3LjMgMy4xIDAgNy4xLTMuMiA3LjUtNy40IDAtNS42LTUuMy05LjYtMTIuNCA5LjYiIGZpbGw9IiNGMjQyMjIiLz48L3N2Zz4=)
