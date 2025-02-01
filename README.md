@@ -15,8 +15,7 @@
 [![Project](https://img.shields.io/badge/-Project-090909?style=for-the-badge&logo=selenium&logoColor=FF0000)](https://github.com/OleksandrTimofieiev/SeleniumFrameworkDesign)
 
 ## Certificates
-(https://github.com/OleksandrTimofieiev/OleksandrTimofieiev/blob/main/assets/certificateSelenium.jpg)
-[![Header](https://github.com/OleksandrTimofieiev/OleksandrTimofieiev/blob/main/assets/certificateSelenium.jpg)]
+![Header](https://github.com/OleksandrTimofieiev/OleksandrTimofieiev/blob/main/assets/certificateSelenium.jpg)
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=FF0000)](https://t.me/al9xxx)
