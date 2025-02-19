@@ -13,6 +13,7 @@
 
 ## Latest project
 [![Project](https://img.shields.io/badge/-Project-090909?style=for-the-badge&logo=selenium&logoColor=FF0000)](https://github.com/OleksandrTimofieiev/SeleniumFrameworkDesign)
+[![Project](https://img.shields.io/badge/-Project-090909?style=for-the-badge&logo=junit5&logoColor=FF0000)](https://github.com/OleksandrTimofieiev/rest-assured-portfolio)
 
 ## Certificates
 ![Header](https://github.com/OleksandrTimofieiev/OleksandrTimofieiev/blob/main/assets/certificateSelenium.jpg)
